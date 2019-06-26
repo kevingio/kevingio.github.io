@@ -206,7 +206,7 @@
                         </a>
                     </div>
                     <div class="col-lg-6">
-                        <a class="portfolio-item" href="http://boedjankvape.or.id" target="_blank">
+                        <a class="portfolio-item" href="#">
                             <span class="caption">
                                 <span class="caption-content">
                                     <h2>E-Cashier</h2>
@@ -217,7 +217,7 @@
                         </a>
                     </div>
                     <div class="col-lg-6">
-                        <a class="portfolio-item" href="http://hub.softwareseni.co.id" target="_blank">
+                        <a class="portfolio-item" href="https://hub.softwareseni.co.id" target="_blank">
                             <span class="caption">
                                 <span class="caption-content">
                                     <h2>SS Hub</h2>
@@ -228,7 +228,7 @@
                         </a>
                     </div>
                     <div class="col-lg-6">
-                        <a class="portfolio-item" href="http://schoolselector.com.au" target="_blank">
+                        <a class="portfolio-item" href="https://schoolselector.com.au" target="_blank">
                             <span class="caption">
                                 <span class="caption-content">
                                     <h2>School Selector</h2>
