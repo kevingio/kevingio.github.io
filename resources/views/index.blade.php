@@ -17,7 +17,6 @@
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
         <link rel="shortcut icon" type="image/x-icon" href="{{ asset('favicon.png') }}">
 
-        <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-120511728-3"></script>
         <script>
           window.dataLayer = window.dataLayer || [];
