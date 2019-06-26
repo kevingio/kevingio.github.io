@@ -20,5 +20,5 @@
     RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
     RewriteEngine On
     RewriteCond %{SERVER_PORT} 80
-    RewriteRule ^(.*)$ https://www.kevingiovanni.com/$1 [R=301,L]
+    RewriteRule ^(.*)$ https://www.%{HTTP_HOST}.com/$1 [R=301,L]
 </IfModule>
