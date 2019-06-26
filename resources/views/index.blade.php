@@ -14,8 +14,8 @@
 
         <!-- Custom Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
-        <link href="{{ asset('css/app.css') }}" rel="stylesheet">
-        <link rel="shortcut icon" type="image/x-icon" href="{{ asset('favicon.png') }}">
+        <link href="css/app.css" rel="stylesheet">
+        <link rel="shortcut icon" type="image/x-icon" href="{{ asset('favicon.png', true) }}">
 
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-120511728-3"></script>
         <script>
@@ -339,7 +339,7 @@
         </a>
 
         <!-- Bootstrap core JavaScript -->
-        <script src="{{ asset('js/app.js') }}"></script>
+        <script src="js/app.js"></script>
 
     </body>
 
