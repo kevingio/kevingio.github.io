@@ -15,7 +15,7 @@
         <!-- Custom Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
         <link href="css/app.css" rel="stylesheet">
-        <link rel="shortcut icon" type="image/x-icon" href="{{ asset('favicon.png', true) }}">
+        <link rel="shortcut icon" type="image/x-icon" href="{{ asset('favicon.png') }}">
 
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-120511728-3"></script>
         <script>
@@ -195,7 +195,29 @@
                 </div>
                 <div class="row no-gutters">
                     <div class="col-lg-6">
-                        <a class="portfolio-item" href="#">
+                        <a class="portfolio-item" href="https://helipos.com">
+                            <span class="caption">
+                                <span class="caption-content">
+                                    <h2>HeliPOS</h2>
+                                    <p class="mb-0">Point of sales application, available on Google Play Store</p>
+                                </span>
+                            </span>
+                            <img class="img-fluid" src="img/helipos.jpeg" alt="">
+                        </a>
+                    </div>
+                    <div class="col-lg-6">
+                        <a class="portfolio-item" href="https://olshop-dev.herokuapp.com">
+                            <span class="caption">
+                                <span class="caption-content">
+                                    <h2>Online Store</h2>
+                                    <p class="mb-0">Web based online store application</p>
+                                </span>
+                            </span>
+                            <img class="img-fluid" src="img/online-shop.jpeg" alt="">
+                        </a>
+                    </div>
+                    <div class="col-lg-6">
+                        <a class="portfolio-item" href="javascript: void(0)">
                             <span class="caption">
                                 <span class="caption-content">
                                     <h2>JBQA</h2>
@@ -206,7 +228,7 @@
                         </a>
                     </div>
                     <div class="col-lg-6">
-                        <a class="portfolio-item" href="#">
+                        <a class="portfolio-item" href="javascript: void(0)">
                             <span class="caption">
                                 <span class="caption-content">
                                     <h2>E-Cashier</h2>
