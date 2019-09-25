@@ -11,6 +11,8 @@
         <meta name="theme-color" content="#f4f4f4">
 
         <title>Kevin Giovanni - Welcome to my personal page!</title>
+        <meta name="author" content="Kevin Giovanni">
+        <meta name="description" content="Crafting html, css, and javascript into an incredible masterpiece with love.">
 
         <!-- Custom Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
@@ -206,7 +208,7 @@
                         </a>
                     </div>
                     <div class="col-lg-6">
-                        <a class="portfolio-item" href="https://olshop-dev.herokuapp.com">
+                        <a class="portfolio-item" href="https://acttoghetto.com">
                             <span class="caption">
                                 <span class="caption-content">
                                     <h2>Online Store</h2>
