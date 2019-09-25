@@ -59,9 +59,9 @@
         <!-- Header -->
         <header class="masthead d-flex">
             <div class="container text-center my-auto">
-                <h1 class="mb-1">Hi, Halo!</h1>
+                <h1 class="mb-1">Hello World!</h1>
                 <h3 class="mb-5">
-                    <em>Welcome to my personal page - Kevin Giovanni</em>
+                    <em>Crafting html, css, and javascript into a masterpiece with love.</em>
                 </h3>
                 <a class="btn btn-primary btn-xl js-scroll-trigger animated pulse infinite" href="#about">Find Out More</a>
             </div>
