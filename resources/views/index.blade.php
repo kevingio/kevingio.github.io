@@ -80,7 +80,7 @@
                                     Young and passionate developer who used to create web based application.
                                     I combine HTML, CSS, Javascript and PHP to make beautiful and responsive website.
                                     I have interest in web, mobile app development and machine learning. Currently,
-                                    I'm a freelance web developer based in Yogyakarta. Feel free to contact me via email down bellow.
+                                    I'm working at <a href="https://tokopedia.com">Tokopedia</a> as Software Engineer Web Platform in Jakarta. Feel free to contact me via email down bellow.
                                 </p>
                             </div>
                             <div class="col-lg-6 col-sm-12 order-1">
@@ -197,7 +197,7 @@
                 </div>
                 <div class="row no-gutters">
                     <div class="col-lg-6">
-                        <a class="portfolio-item" href="https://helipos.com">
+                        <a class="portfolio-item" href="https://helipos.com" target="_blank">
                             <span class="caption">
                                 <span class="caption-content">
                                     <h2>HeliPOS</h2>
@@ -208,7 +208,7 @@
                         </a>
                     </div>
                     <div class="col-lg-6">
-                        <a class="portfolio-item" href="https://acttoghetto.com">
+                        <a class="portfolio-item" href="https://acttoghetto.com" target="_blank">
                             <span class="caption">
                                 <span class="caption-content">
                                     <h2>Online Store</h2>
@@ -252,7 +252,7 @@
                         </a>
                     </div>
                     <div class="col-lg-6">
-                        <a class="portfolio-item" href="https://schoolselector.com.au" target="_blank">
+                        <a class="portfolio-item" href="javascript: void(0)">
                             <span class="caption">
                                 <span class="caption-content">
                                     <h2>School Selector</h2>
