@@ -329,7 +329,7 @@ footer.footer .social-link {
   width: 4rem;
   line-height: 4.3rem;
   font-size: 1.5rem;
-  background-color: #63212b;
+  background-color: #222;
   -webkit-transition: background-color 0.15s ease-in-out;
   transition: background-color 0.15s ease-in-out;
   -webkit-box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
@@ -337,7 +337,7 @@ footer.footer .social-link {
 }
 
 footer.footer .social-link:hover {
-  background-color: #591d26;
+  background-color: #000;
   text-decoration: none;
 }
 
@@ -356,8 +356,8 @@ a:hover, a:focus, a:active {
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #591d26 !important;
-  border-color: #591d26 !important;
+  background-color: #000 !important;
+  border-color: #000 !important;
 }
 
 .btn-secondary {
