@@ -6919,7 +6919,7 @@ button.close {
 }
 
 .bg-primary {
-  background-color: #1D809F !important;
+  background-color: #222 !important;
 }
 
 a.bg-primary:hover,
@@ -19021,8 +19021,8 @@ a:hover, a:focus, a:active {
 }
 
 .btn-primary {
-  background-color: #63212b !important;
-  border-color: #63212b !important;
+  background-color: #222 !important;
+  border-color: #222 !important;
   color: #fff !important;
 }
 
@@ -19054,7 +19054,7 @@ a:hover, a:focus, a:active {
 }
 
 .bg-primary {
-  background-color: #63212b !important;
+  background-color: #222 !important;
 }
 
 .text-primary {
