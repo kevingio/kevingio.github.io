@@ -30,7 +30,5 @@ class HomeController extends Controller
         }
         $instagram_data = array_slice($results, 0, 9, true);
         return view('index')->with('instagram', $instagram_data);
-        // print_r($instagram->get(20));
-        // return '';
     }
 }
