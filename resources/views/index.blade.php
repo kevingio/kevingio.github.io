@@ -80,7 +80,7 @@
                                     Young and passionate developer who used to create web based application.
                                     I combine HTML, CSS, Javascript and PHP to make beautiful and responsive website.
                                     I have interest in web, mobile app development and machine learning. Currently,
-                                    I'm working at <a href="https://tokopedia.com">Tokopedia</a> as Software Engineer Web Platform in Jakarta. Feel free to contact me via email down bellow.
+                                    I'm working at <a href="https://tokopedia.com">Tokopedia</a> as Software Engineer Web Platform in Jakarta. Feel free to contact me via email down below.
                                 </p>
                             </div>
                             <div class="col-lg-6 col-sm-12 order-1">
