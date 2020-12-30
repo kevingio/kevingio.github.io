@@ -291,32 +291,6 @@
         <!-- Parallax -->
         <div class="parallax"></div>
 
-        <!-- Instagram -->
-        <section class="content-section">
-            <div class="container text-center">
-                <div class="content-section-heading text-center">
-                    <h3 class="text-secondary mb-0">Social Media</h3>
-                    <h2 class="mb-5">Instagram</h2>
-                </div>
-                <div class="row justify-content-center align-items-center mb-5">
-                    <div class="col-auto">
-                        <img src="{{ $instagram[0]->user->profile_picture }}" class="img-fluid rounded-circle" style="width: 100px;" alt="Kevin Giovanni">
-                    </div>
-                    <div class="col-auto text-left">
-                        <h3 class="mb-0">{{ $instagram[0]->user->full_name }}</h3>
-                        <a href="https://www.instagram.com/{{ $instagram[0]->user->username }}" target="_blank">{{ '@' . $instagram[0]->user->username }}</a>
-                    </div>
-                </div>
-                <div class="row px-2">
-                    @foreach($instagram as $data)
-                        <div class="col-lg-4 col-md-6 px-1">
-                            <img src="{{ $data->images->standard_resolution->url }}" class="img-instagram" alt="{{ $data->caption->text or '' }}">
-                        </div>
-                    @endforeach
-                </div>
-            </div>
-        </section>
-
         <!-- Call to Action -->
         <section class="content-section bg-primary" id="contact">
             <div class="container text-center">
