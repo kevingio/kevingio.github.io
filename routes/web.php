@@ -11,6 +11,10 @@
 |
 */
 
+Route::get('instagram-get-auth', 'InstagramAuthController@show');
+Route::get('instagram-auth-response', 'InstagramAuthController@complete');
+Route::get('instagram-feed', 'InstagramAuthController@showFeed');
+
 Route::get('/', 'HomeController@index')->name('index');
 Route::any('{query}',
   function() {
